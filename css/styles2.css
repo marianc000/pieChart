@@ -1,0 +1,37 @@
+path, polyline {
+    fill: none;
+    stroke: #231F20;
+
+    stroke-width: 2;
+}
+
+svg {
+    display: inline-block;
+    width: 200px;
+}
+
+.one circle,path.type0 {
+    fill: #e60049;
+}
+ path.type0,  path.type1{
+    stroke: white
+    ;
+}
+
+.two circle,path.type1 {
+    fill: #0bb4ff;
+}
+
+circle {
+    r: 5;
+    fill: dodgerblue;
+}
+
+circle {
+    r: 5;
+  
+}
+
+.container {
+    margin-top: 2em;
+}

@@ -1,0 +1,132 @@
+#manyPiesDiv svg {
+  width: 50px;
+}
+#onePieDiv svg {
+  width: 150px;
+}
+
+#onePieDiv {
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+g.sectors {
+  stroke: white;
+  stroke-width: 2px;
+}
+
+
+path.type0 {
+  fill: #e60049;
+}
+
+path.type1 {
+  fill: #0bb4ff;
+}
+
+path.type2 {
+  fill: #50e991;
+}
+
+path.type3 {
+  fill: #e6d800;
+}
+
+path.type4 {
+  fill: #9b19f5;
+}
+
+path.type5 {
+  fill: #ffa300;
+}
+
+path.type6 {
+  fill: #dc0ab4;
+}
+
+path.type7 {
+  fill: #b3d4ff;
+}
+
+path.type8 {
+  fill: #00bfa0;
+}
+
+
+}
+
+path.type17 {
+  fill: #8bd3c7;
+}
+
+path.type16 {
+  fill: #fdcce5;
+}
+
+path.type15 {
+  fill: #beb9db;
+}
+
+path.type14 {
+  fill: #ffee65;
+}
+
+path.type13 {
+  fill: #ffb55a;
+}
+
+path.type12 {
+  fill: #bd7ebe;
+}
+
+path.type11 {
+  fill: #b2e061;
+}
+
+path.type10 {
+  fill: #7eb0d5;
+}
+
+path.type9 {
+  fill: #fd7f6f;
+}
+
+
+* {
+  font-family: monospace;
+}
+
+.header {
+
+  text-align: center;
+
+  margin-bottom: 3em;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  margin: 0.5em;
+}
+
+h1 {
+  margin-bottom: 0.2em;
+  font-size: 1.5em;
+}
+
+.links>div {
+  display: inline-block;
+  text-align: left;
+}
+
+.links {
+  text-align: center;
+}
+
+html {
+  font-size: 19px;
+}
+
+.message {
+  font-size: 2em;
+}
